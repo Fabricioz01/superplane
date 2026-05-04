@@ -30,3 +30,6 @@ coverage-go.out
 /agent/src/private/agents_pb2_grpc.py
 /api/swagger/*
 !/api/swagger/swagger-ui.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
